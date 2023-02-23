@@ -17,8 +17,8 @@ export default function Navbar() {
   }, [])
 
   return (
-    <div className='bg-[#00243b] h-[70px] w-[100%] flex-row justify-start items-center fixed backdrop-blur-md bg-opacity-60 z-10'>
-      <div className='flex flex-row justify-start items-center h-fit w-[100%] gap-[3%]'>
+    <div className='bg-[#00243b] h-[60px] w-[100%] flex-row justify-start items-center fixed backdrop-blur-md bg-opacity-60 z-10'>
+      <div className='flex flex-row justify-start items-center h-fit w-[100%] gap-[3%] mt-2'>
         <div className='flex flex-row items-center ml-16'>
           <Image src={require('../../assets/logo.png')} width={40} height={40} className='mr-4' alt="logo"></Image>
           <p className='text-[30px] font-semibold text-gray-300'>Quizlet</p>
