@@ -1,0 +1,114 @@
+[
+    {
+        "questionID": 0,
+        "question": "Match the capital cities with the countries",
+        "lhs": [
+            "Botswana",
+            "Cambodia",
+            "Chile",
+            "Germany"
+        ],
+        "rhs": [
+            "Gaborone",
+            "Phnom Penh",
+            "Santiago",
+            "Berlin"
+        ]
+    },
+    {
+        "questionID": 1,
+        "question": "Match the world wonders to the countries they are in",
+        "lhs": [
+            "Taj Mahal",
+            "Hagia Sophia",
+            "Machu Picchu",
+            "The Colosseum"
+        ],
+        "rhs": [
+            "India",
+            "Turkey",
+            "Peru",
+            "Italy"
+        ]
+    },
+    {
+        "questionID": 2,
+        "question": "Match the currencies with the countries",
+        "lhs": [
+            "US",
+            "UAE",
+            "Luxembourg",
+            "Switzerland"
+        ],
+        "rhs": [
+            "Dollars",
+            "Dirhams",
+            "Euro",
+            "Swiss Franc"
+        ]
+    },
+    {
+        "questionID": 3,
+        "question": "Match the countries with what they are known as",
+        "lhs": [
+            "Japan",
+            "Bhutan",
+            "Thailand",
+            "Norway"
+        ],
+        "rhs": [
+            "Land of the rising sun",
+            "Land of the thunderbolts",
+            "Land of smiles",
+            "Land of the midnight sun"
+        ]
+    },
+    {
+        "questionID": 4,
+        "question": "Match the rainforests with the country they are located in",
+        "lhs": [
+            "Amazon",
+            "Congo Basin",
+            "Kinabalu National Forest",
+            "Daintree rainforest"
+        ],
+        "rhs": [
+            "South America",
+            "Africa",
+            "Malaysia",
+            "Australia"
+        ]
+    },
+    {
+        "questionID": 5,
+        "question": "Match the elements and their symbols",
+        "lhs": [
+            "Iron",
+            "Sodium",
+            "Silver",
+            "Copper"
+        ],
+        "rhs": [
+            "Fe",
+            "Na",
+            "Ag",
+            "Cu"
+        ]
+    },
+    {
+        "questionID": 6,
+        "question": "Match the elements and their atomic numbers",
+        "lhs": [
+            "Hydrogen",
+            "Carbon",
+            "Neon",
+            "Cobalt"
+        ],
+        "rhs": [
+            "1",
+            "6",
+            "10",
+            "27"
+        ]
+    }
+]
